@@ -1,19 +1,19 @@
-### About me
+# About me
 I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also like other tech areas like Cybersecurity and Robotics. In this moment, I'm looking for learning more about Computer Vision and Reinforcement Learning. In a long term, I want to contribute with Medicine area using DS & AI as solution tools.
 
-### Data knowledge
-# Cloud (Basics):
+## Data knowledge
+### Cloud (Basics):
 - Google Cloud Platform (GCP): AI Platform, Google Cloud Storage, BigQuery
 - Amazon Web Services (AWS): SageMaker, Amazon S3
-# SQL: 
+### SQL: 
 - MySQL
 - Amazon Athena
 - Amazon Redshift 
 - SQL Server 
-# Data Visualization: 
+### Data Visualization: 
 - Tableau
 - QlikSense
-# Python:
+### Python:
 - Data Analytics: NumPy, Pandas, Plotly
 - Machine Learning: Scikit-Learn, PySpark Mlib
 - Deep Learning: Tensorflow, Keras
@@ -24,13 +24,13 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 - Web Scraping: Selenium WebDriver
 - Data Science Web Apps and Data Visualization: Streamlit
 - Survival Analysis: lifelines
-# Other systems:
+### Other systems:
 - Code versioning with Git and GitHub
 - Bash shell - Linux (basics)
 - Docker (Docker images, Docker containers)
 - Pentesting: Metasploit
 
-### Data Science & Artificial Intelligence projects
+## Data Science & Artificial Intelligence projects
 - [X-ray images for detection of COVID-19 or pneumonia](https://github.com/rafaelcoelho1409/Chest-X-Ray-COVID-19)
 - [Detecting and classifying objects using Computer Vision and Deep Learning](https://github.com/rafaelcoelho1409/Computer_Vision_AI_1)
 - [Web Scraping with Selenium to collect product prices on Google Shopping](https://github.com/rafaelcoelho1409/GoogleShoppingBot)
