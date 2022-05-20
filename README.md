@@ -26,18 +26,18 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 - Tableau
 - QlikSense
 ### Python:
-- Data Analytics: NumPy, Pandas, Plotly
-- Machine Learning: Scikit-Learn, PySpark Mlib
-- Deep Learning: Tensorflow, Keras
-- Time Series & Forecast: pmdarima, Facebook Prophet
-- NLP: NLTK
-- Computer Vision: OpenCV
-- Data Engineering: Airflow, PySpark
-- Web Scraping: Selenium WebDriver
-- Data Science Web Apps and Data Visualization: Streamlit
-- Survival Analysis: lifelines
+- <u>Data Analytics</u>: NumPy, Pandas, Plotly
+- <u>Machine Learning</u>: Scikit-Learn, PySpark Mlib
+- <u>Deep Learning</u>: Tensorflow, Keras
+- <u>Time Series & Forecast</u>: pmdarima, Facebook Prophet
+- <u>NLP</u>: NLTK
+- <u>Computer Vision</u>: OpenCV
+- <u>Data Engineering</u>: Airflow, PySpark
+- <u>Web Scraping</u>: Selenium WebDriver
+- <u>Data Science Web Apps and Data Visualization</u>: Streamlit
+- <u>Survival Analysis</u>: lifelines
 ### Other systems:
 - Code versioning with Git and GitHub
 - Bash shell - Linux (basics)
 - Docker (Docker images, Docker containers)
-- Pentesting: Metasploit
+- <u>Pentesting</u>: Metasploit
