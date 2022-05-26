@@ -1,5 +1,5 @@
 # About me
-I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also like other tech areas like Cybersecurity and Robotics. In this moment, I'm looking for learning more about Computer Vision and Reinforcement Learning. In a long term, I want to contribute with Medicine area using DS & AI as solution tools.
+I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also like other tech areas as Cybersecurity and Robotics. In this moment, I'm looking for learning more about Computer Vision and Reinforcement Learning. In a long term, I want to contribute with Medicine area using DS & AI as solution tools.
 
 ## Data Science & Artificial Intelligence projects
 - [X-ray images for detection of COVID-19 or pneumonia](https://github.com/rafaelcoelho1409/Chest-X-Ray-COVID-19)
