@@ -28,7 +28,7 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 ### Python:
 - **Data Analytics**: NumPy, Pandas, Plotly
 - **Machine Learning**: Scikit-Learn, PySpark Mlib
-- **Deep Learning**: Tensorflow, Keras
+- **Deep Learning**: Tensorflow, Keras, PyTorch
 - **Time Series & Forecast**: pmdarima, Facebook Prophet
 - **NLP**: NLTK
 - **Computer Vision**: OpenCV
