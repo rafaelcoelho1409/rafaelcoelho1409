@@ -27,7 +27,7 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 - QlikSense
 ### Python:
 - **Data Analytics**: NumPy, Pandas, Plotly
-- **Machine Learning**: Scikit-Learn, PySpark Mlib
+- **Machine Learning**: Scikit-Learn, PySpark MLlib
 - **Deep Learning**: Tensorflow, Keras, PyTorch
 - **Time Series & Forecast**: pmdarima, Facebook Prophet
 - **NLP**: NLTK
