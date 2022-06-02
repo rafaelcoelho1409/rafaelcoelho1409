@@ -30,7 +30,7 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 - **Machine Learning**: Scikit-Learn, PySpark MLlib
 - **Deep Learning**: Tensorflow, Keras, PyTorch
 - **Time Series & Forecast**: pmdarima, Facebook Prophet
-- **NLP**: NLTK
+- **NLP**: NLTK, Transformers (Hugging Face)
 - **Computer Vision**: OpenCV
 - **Data Engineering**: Airflow, PySpark
 - **Web Scraping**: Selenium WebDriver
