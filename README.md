@@ -1,5 +1,5 @@
 # About me
-I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also have a lot of interest in another tech areas as Cybersecurity and Robotics. Actually, I have knowledge in Computer Vision, NLP and Reinforcement Learning. In a long term, I want to contribute with Medicine and Astronomy areas using DS & AI as solution tools.
+I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also have a lot of interest in another tech areas as Cybersecurity and Robotics. Actually, I have knowledge and interest about developing new algorithms using Computer Vision, NLP and Reinforcement Learning. In a long term, I want to contribute with Medicine and Astronomy areas using DS & AI as solution tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelcoelho1409) 
@@ -15,17 +15,23 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 [![](https://visitcount.itsvg.in/api?id=rafaelcoelho1409&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Data Science & Artificial Intelligence projects
-- [X-ray images for detection of COVID-19 or pneumonia (March 2021)](https://github.com/rafaelcoelho1409/Chest-X-Ray-COVID-19)
+### - Computer Vision
 - [Detecting and classifying objects using Computer Vision and Deep Learning (May 2021)](https://github.com/rafaelcoelho1409/Computer_Vision_AI_1)
-- [Web Scraping with Selenium to collect product prices on Google Shopping (November 2021)](https://github.com/rafaelcoelho1409/GoogleShoppingBot)
-- [Customer segmentation using clustering algorithms (Machine Learning) (November 2021)](https://github.com/rafaelcoelho1409/CustomerSegmentation)
-- [Deep Learning using Tensorflow & Keras (January 2022)](https://github.com/rafaelcoelho1409/DeepLearning)
 - [Computer Vision with Tensorflow, Keras and OpenCV (January 2022)](https://github.com/rafaelcoelho1409/ComputerVision)
+### - Machine Learning
+- [Customer segmentation using clustering algorithms (Machine Learning) (November 2021)](https://github.com/rafaelcoelho1409/CustomerSegmentation)
 - [Time Series & Forecast using SARIMAX, XGBoost and Facebook Prophet (March 2022)](https://github.com/rafaelcoelho1409/TimeSeriesForecast)
+### - Deep Learning
+- [X-ray images for detection of COVID-19 or pneumonia (March 2021)](https://github.com/rafaelcoelho1409/Chest-X-Ray-COVID-19)
+- [Deep Learning using Tensorflow & Keras (January 2022)](https://github.com/rafaelcoelho1409/DeepLearning)
+### - NLP
 - [Natural Language Processing (NLP) & Web Scraping (March 2022)](https://github.com/rafaelcoelho1409/NLP-WebScraping)
+### - Data Engineering
 - [Data Engineering and Machine Learning with Airflow & PySpark (April 2022)](https://github.com/rafaelcoelho1409/DataEngineering)
 - [Data Engineering and Machine Learning with Airflow, Pandas, SARIMAX and XGBoost (April 2022)](https://github.com/rafaelcoelho1409/DataEngineering2)
-
+### - Web Scraping
+- [Web Scraping with Selenium to collect product prices on Google Shopping (November 2021)](https://github.com/rafaelcoelho1409/GoogleShoppingBot)
+  
 ## Data knowledge
 ### Cloud (Basics):
 - Google Cloud Platform (GCP): AI Platform, Google Cloud Storage, BigQuery
