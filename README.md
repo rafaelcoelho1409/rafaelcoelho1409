@@ -1,5 +1,5 @@
 # About me
-I am Rafael, a Brazilian mathematics student who is passionated for Data Science and Artificial Intelligence. I also have a lot of interest in another tech areas as Cybersecurity and Robotics. Actually, I have knowledge and interest about developing new algorithms using Computer Vision, NLP and Reinforcement Learning. In a long term, I want to contribute with Medicine and Astronomy areas using DS & AI as solution tools.
+I am Rafael, a Brazilian Mathematics student who is passionated for Data Science and Artificial Intelligence. I also have a lot of interest in another tech areas as Cybersecurity and Robotics. Actually, I have knowledge and interest about developing new algorithms using Computer Vision, NLP and Reinforcement Learning. In a long term, I want to contribute with Medicine and Astronomy areas using DS & AI as solution tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelcoelho1409) 
@@ -31,12 +31,7 @@ I am Rafael, a Brazilian mathematics student who is passionated for Data Science
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafaelcoelho1409&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelcoelho1409&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcoelho1409&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=rafaelcoelho1409&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Data Science & Artificial Intelligence projects
 ### - Computer Vision
