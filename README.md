@@ -48,9 +48,10 @@ I am Rafael, a Brazilian Mathematics student who is passionated for Data Science
 - [Web Scraping with Selenium to collect product prices on Google Shopping (November 2021)](https://github.com/rafaelcoelho1409/GoogleShoppingBot)
   
 ## Data knowledge
-### Cloud (Basics):
+### Cloud:
 - Google Cloud Platform (GCP): AI Platform, Google Cloud Storage, BigQuery
 - Amazon Web Services (AWS): SageMaker, Amazon S3
+- Azure: Azure Data Factory, Azure Logic Apps
 ### SQL: 
 - MySQL
 - Amazon Athena
